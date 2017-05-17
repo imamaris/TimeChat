@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "177401600201",
+    "firebase_url": "https://timechat-29613.firebaseio.com",
+    "project_id": "timechat-29613",
+    "storage_bucket": "timechat-29613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177401600201:android:f6e0e32ce4e6a87e",
+        "android_client_info": {
+          "package_name": "com.imamarisdeveloper.timechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177401600201-si4ggaiv42trefsh9jmnotdtnb361aq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imamarisdeveloper.timechat",
+            "certificate_hash": "2B9C6929B36333CCFBF85B6CAAC938FF5732F418"
+          }
+        },
+        {
+          "client_id": "177401600201-jt0abkr7ipr25hb7vh78vfidg7ggrg0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA88lqgofmTnEz1sgpYjTzLy0iMg8gAy80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177401600201-jt0abkr7ipr25hb7vh78vfidg7ggrg0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
